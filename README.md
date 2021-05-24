@@ -1,17 +1,14 @@
 # HDR_Imaging
 
 ## LINEARIZE RENDERED IMAGES
-
+This work is to linearize the rendered image which is non-linear. To achieve my goal , I have to solve least squares optimization problem.
+The result shows each gradient curve using uniform, tent, gaussian weight scheme for each color channels, respectively. 
+As shown below, the gradient curve with gaussian weight scheme is the more smooth than other curves 
 <table>
     <tr>
         <th>Weight: Uniform</th>
         <th>Weight: Tent</th>
         <th>Weight: Gaussian</th>
-    </tr>
-    <tr>
-        <td>size = 17039693 bytes</td>
-        <td>size = 3421555 bytes (compresssion ratio: 0.2008)</td>
-        <td>size = 1759171 bytes (compresssion ratio: 0.1032)</td>
     </tr>
     <tr>
         <td><img src='./img/gradient_curve_uniform.png'></td>
@@ -21,6 +18,8 @@
 </table>
 
 ## MERGE EXPOSURE STACK INTO HDR IMAGE
+
+
 
 ## EVALUATION
 
