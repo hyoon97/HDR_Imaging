@@ -20,6 +20,9 @@ As shown below, the gradient curve with gaussian weight scheme is the more smoot
 
 ## MERGE EXPOSURE STACK INTO HDR IMAGE
 
+Several types of exposure images are merged into HDR image.
+As shown below, the images with uniform weighting scheme shows best quality when processing with raw image. However, for gaussian and tent weigthing scheme, the quality seems to be at best when images are rendered and logarithmic. 
+
 <table>
     <tr>
         <th>Raw Uniform Linear</th>
@@ -73,6 +76,8 @@ As shown below, the gradient curve with gaussian weight scheme is the more smoot
 </table>
 
 ## EVALUATION
+
+
 
 # TONEMAPPING
 
