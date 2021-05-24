@@ -77,7 +77,31 @@ As shown below, the images with uniform weighting scheme shows best quality when
 
 ## EVALUATION
 
+<table>
+    <tr>
+        <th>Uniform Linear</th>
+        <th>Tent Linear</th>
+        <th>Gaussian Linear</th>
+    </tr>
+    <tr>
+        <td><img src='./img/uniform_linear.jpg'></td>
+        <td><img src='./img/tent_linear.jpg'></td>
+        <td><img src='./img/gaussian_linear.jpg'></td>
+    </tr>
+</table>
 
+<table>
+    <tr>
+        <th>Uniform Logarithmic</th>
+        <th>Tent Logarithmic</th>
+        <th>Gaussian Logarithmic</th>
+    </tr>
+    <tr>
+        <td><img src='./img/uniform_logarithmic.jpg'></td>
+        <td><img src='./img/tent_logarithmic.jpg'></td>
+        <td><img src='./img/gaussian_logarithmic.jpg'></td>
+    </tr>
+</table>
 
 # TONEMAPPING
 
