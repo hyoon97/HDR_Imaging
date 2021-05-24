@@ -103,8 +103,3 @@ As shown below, the images with uniform weighting scheme shows best quality when
     </tr>
 </table>
 
-# TONEMAPPING
-
-## PHOTOGRAPHIC TONEMAPPING
-
-## TONEMAPPING USING BILATERAL FILTERING
