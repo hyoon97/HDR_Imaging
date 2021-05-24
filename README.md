@@ -84,9 +84,9 @@ As shown below, the images with uniform weighting scheme shows best quality when
         <th>Gaussian Linear</th>
     </tr>
     <tr>
-        <td><img src='./img/uniform_linear.jpg'></td>
-        <td><img src='./img/tent_linear.jpg'></td>
-        <td><img src='./img/gaussian_linear.jpg'></td>
+        <td><img src='./img/uniform_linear.png'></td>
+        <td><img src='./img/tent_linear.png'></td>
+        <td><img src='./img/gaussian_linear.png'></td>
     </tr>
 </table>
 
@@ -97,9 +97,9 @@ As shown below, the images with uniform weighting scheme shows best quality when
         <th>Gaussian Logarithmic</th>
     </tr>
     <tr>
-        <td><img src='./img/uniform_logarithmic.jpg'></td>
-        <td><img src='./img/tent_logarithmic.jpg'></td>
-        <td><img src='./img/gaussian_logarithmic.jpg'></td>
+        <td><img src='./img/uniform_logarithmic.png'></td>
+        <td><img src='./img/tent_logarithmic.png'></td>
+        <td><img src='./img/gaussian_logarithmic.png'></td>
     </tr>
 </table>
 
